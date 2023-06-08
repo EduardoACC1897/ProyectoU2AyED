@@ -26,6 +26,8 @@ Sigue estas instrucciones para disfrutar del juego "The Guardian Journey":
 
 - Verifica que los archivos **Villages.csv** y **Guardians.csv** se encuentren en la misma carpeta que el programa.
 
+- Ejecutar el programa en pantalla completa.
+
 - Al ejecutar el programa, se mostrará un menú con diferentes opciones.
 
 - Utiliza las teclas correspondientes para ingresar los caracteres necesarios y seleccionar las opciones deseadas.
