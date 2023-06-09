@@ -23,7 +23,7 @@ int main() {
          << "\t\t\t\t\ttitulo de guardianes." << endl << endl
          << "\t\t\t\t\tA los alrededores de Tesla se encuentran las aldeas que corresponden a asentamientos" << endl
          << "\t\t\t\t\tque cumplen distintas funciones dentro de la gran organizacion de la humanidad y en cada" << endl
-         << "\t\t\t\t\tuna de estas aldeas existen maestros, quienes enseñan las artes de los guardianes." << endl<< endl
+         << "\t\t\t\t\tuna de estas aldeas existen maestros, quienes ensenan las artes de los guardianes." << endl<< endl
          << "\t\t\t\t\tEl sueno de cada nino es convertirse en un Guardian y ganar el torneo, pero el viaje de un" << endl
          << "\t\t\t\t\taprendiz no es facil y su destino depende de las decisiones que tome a lo largo de este" << endl
          << "\t\t\t\t\trecorrido." << endl << endl;
