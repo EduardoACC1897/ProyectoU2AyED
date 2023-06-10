@@ -483,7 +483,7 @@ int main() {
 	    // Solicita la aldea del guardián al jugador
 	    string village = getValidVillage(guardians);
 	
-	    // Crea el guardián con los datos ingresados por el jugador y lo agrega a la lista de guardianes
+	    // Crea el guardián con los datos ingresados por el jugador y lo agrega al resto de guardianes
 	    guardians.addGuardianPlayer(village, guardianName, maxLevel / 2, "", 1);
 	    
 	    //guardians.printGuardiansByVillage();
