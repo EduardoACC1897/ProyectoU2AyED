@@ -48,7 +48,7 @@ Ten en cuenta que el juego puede tener restricciones o requisitos específicos e
 
 ## Video de presentación del proyecto 
 
-- Enlace del video: [Insertar enlace al video de presentación del proyecto].
+- Enlace del video: https://youtu.be/SKCEyAc_nOQ.
 
 ## Autor
 
